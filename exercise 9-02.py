@@ -21,7 +21,7 @@ italian_restaurant = Restaurant("Tony's cannolis", "Italian bakery")
 russian_restaurant = Restaurant("Vladimir's borsch and lard", "Russian cuisine")
 
 chinese_restaurant.describe_restaurant()
-
+print()
 italian_restaurant.describe_restaurant()
-
+print()
 russian_restaurant.describe_restaurant()
